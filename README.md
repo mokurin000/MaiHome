@@ -49,14 +49,14 @@ For a more authentic arcade experience, several dedicated controllers are availa
 
 Several software options exist to simulate the *maimai DX* gameplay on your devices. They range from clean-room implementations to loaders that require game data.
 
-> Performance Tip for KanadeDX:
+> Performance Tip for `******DX`:
 > Some users report that custom Android ROMs (or even some stock ROMs) can lead to a worse experience compared to AOSP-based ROMs (like LineageOS). For example, my OnePlus Ace 3 (Snapdragon 8 Gen 2) experiences random lag with its stock OS, while a OnePlus 8T (Snapdragon 865) running LineageOS 21 performs flawlessly.
 
 | Application   | Android | iOS/iPadOS/macOS | Windows | Implementation         | Notes                                                    |
 | ------------- | ------- | ---------------- | ------- | ---------------------- | :------------------------------------------------------- |
 | [sentakki]    | ✔️       | ✔️                | ✔️       | Clean Room             | Open-source simulator.                                   |
 | [AstroDX]     | ✔️       | ✔️                | ❌       | Clean Room             | Open-source simulator.                                   |
-| [KanadeDX]    | ✔️       | ✔️                | ❌       | Unofficial Mobile Port | Requires an invitation to access.                        |
+| `******DX`    | ✔️       | ✔️                | ❌       | Unofficial Mobile Port | Requires an invitation to access.                        |
 | [MajdataPlay] | ❌  ️     | ❌ ️               | ✔️       | Clean Room             | Open-source chart player.                                |
 | segatools     | ❌       | ❌                | ✔️       | Loader/Emulator        | Requires an unauthorized copy of the game's arcade data. |
 
@@ -66,4 +66,3 @@ Several software options exist to simulate the *maimai DX* gameplay on your devi
 [astrodx]: https://wiki.astrodx.com
 [sentakki]: https://github.com/LumpBloom7/sentakki
 [majdataplay]: https://github.com/LingFeng-bbben/MajdataPlay
-[kanadedx]: https://kdx.nightcord.com.de/
