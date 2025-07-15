@@ -25,20 +25,24 @@
 >     * [兔键]按键：+550元
 >     * PP/铜制框架：+250元
 
-| 型号             | 价格(元) | 刷新率 | 屏幕配置   | 工艺              | 备注               |
-| :--------------- | :------- | :----- | :--------- | :---------------- | :----------------- |
-| [maipico](DIY版) | 约700    | -      | 需自备     | 蚀刻+ito膜        | 需自行组装         |
-| maipico(成品)    | 约1200   | -      | 不详       | 不详              | 二手平台常见       |
-| 雾雨(内屏版)     | 1499     | -      | 不含       | 蚀刻              | 无外键支持         |
-| 雾雨(基础版)     | 2349     | -      | 不含       | 蚀刻              | 含基础按键与框架   |
-| 纸片台           | 5999     | 60Hz   | 京东方面板 | 无痕蚀刻+自研触控 | 闲鱼：纸片片片片片 |
-| HDX Air          | 4399     | -      | 不含       | 无痕蚀刻          |                    |
-| HDX              | 5888     | -      | 不含       | 无痕蚀刻          |                    |
-| HDX              | 7288     | 60Hz   | 雷鸟鹏6se  | 无痕蚀刻          | 含60Hz显示器       |
-| HDX              | 9588     | 120Hz  | 定制屏幕   | 无痕蚀刻          | 配备120Hz高刷屏    |
-| ADX LITE+        | 4998     | -      | 不含       | 无痕蚀刻          |                    |
-| ADX 3            | 8000     | 60Hz   | 不详       | 无痕蚀刻          | 含60Hz显示器       |
-| ADX 3            | 12000    | 120Hz  | 不详       | 无痕蚀刻          | 配备120Hz高刷屏    |
+| 型号             | 价格(元) | 刷新率 | 屏幕配置   | 工艺              | 备注               | 图片 |
+| :--------------- | :------- | :----- | :--------- | :---------------- | :----------------- | :---- |
+| [maipico]\(DIY版) | 约700    | -      | 需自备     | 蚀刻+ito膜        | 需自行组装         |
+| maipico(成品)    | 约1000   | -      | 不详       | 不详              | 二手平台常见       | [<img width="200px" src="https://github.com/user-attachments/assets/99047a28-2e40-4839-a64f-f5b2f8295b54" />](https://www.goofish.com/item?id=891098479283) |
+| 雾雨(内屏版)     | 1499     | -      | 不含       | 蚀刻              | 无外键支持         | [<img src="https://github.com/user-attachments/assets/17e2ca22-326d-4fe5-bbe7-a7910cc3f4f3" width=200px />](https://www.goofish.com/item?id=865663465655) |
+| 雾雨(基础版)     | 2349     | -      | 不含       | 蚀刻              | 含基础按键与框架   | |
+| 晶台             | 2299     | -      | 不含      | 蚀刻+ito           | 闲鱼: 吃个桃桃   | [<img src="https://github.com/user-attachments/assets/92ed71e3-9973-4d2d-ad71-f63e897bcd86" width=200px />](https://www.goofish.com/item?id=800676155187) |
+| 纸片台           | 5999     | 60Hz   | 京东方面板 | 无痕蚀刻+自研触控 | 闲鱼：纸片片片片片 | [<img width="200px" src="https://github.com/user-attachments/assets/5197b7ee-af35-4f33-94cd-1a10f08f714c" />](https://www.goofish.com/item?id=922999290368) |
+| HDX青春版          | 4399     | -      | 不含       | 无痕蚀刻          |                    | [<img width="200px" src="https://github.com/user-attachments/assets/c383b6c3-4d27-41de-94e4-1a2c10d2a660" />](https://item.taobao.com/item.htm?id=821589059415&skuId=5822246444323) |
+| HDX              | 5888     | -      | 不含       | 无痕蚀刻          |                    | [<img src="https://github.com/user-attachments/assets/3a9eb950-b99b-4d28-bdf7-336a9425d8aa" width=200px />](https://item.taobao.com/item.htm?id=821589059415) |
+| HDX              | 7288     | 60Hz   | 雷鸟鹏6se  | 无痕蚀刻          | 含60Hz显示器       | <img width="200px" src="https://github.com/user-attachments/assets/f0abfd9d-dc96-40b5-934b-6160a6508dce" /> |
+| HDX              | 9588     | 120Hz  | 定制屏幕   | 无痕蚀刻          | 配备120Hz高刷屏    | |
+| ADX LITE+        | 4998     | -      | 不含       | 无痕蚀刻          |                    | [<img width="200px" src="https://github.com/user-attachments/assets/c331bccf-2df2-4f1f-87e7-5cadfd058a80" />](https://item.taobao.com/item.htm?id=936311370897) |
+| ADX 3            | 8000     | 60Hz   | 不详       | 无痕蚀刻          | 含60Hz显示器       | |
+| ADX 3            | 12000    | 120Hz  | 不详       | 无痕蚀刻          | 配备120Hz高刷屏    | |
+
+
+
 
 -----
 
