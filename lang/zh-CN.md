@@ -60,6 +60,7 @@
 | `******DX`    | ✔️    | ✔️              | ❌       | 非官方移动端移植 | 需邀请制访问     |
 | [MajdataPlay] | ❌    | ❌              | ✔️       | 净室实现         | 开源谱面播放工具 |
 | segatools     | ❌    | ❌              | ✔️       | 加载器/模拟器    | 需非授权游戏数据 |
+| Sinmai        | ❌    | ❌              | ✔️       | 官方实现         | NB2HI4DTHIXS64DFOJTG64TNMFUS4ZLWNFWGYZLBNNSXELTDN5WS63LBNZ2WC3BP |
 
 [睡神]: https://space.bilibili.com/895949/
 [兔键]: http://www.taobao.com/list/item/660013732031.htm
