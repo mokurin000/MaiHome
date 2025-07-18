@@ -1,3 +1,5 @@
+> note: this is difference between SDGA 1.50 and SDEZ 1.56 A000/MovieData
+
 1.56 - 1.50:
 000125.dat
 000192.dat
