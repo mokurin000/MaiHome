@@ -1,0 +1,39 @@
+## 前言
+
+请确保你的 .app 并非由 uns***REBORN 提取了 contents 。
+
+它会导致大量的文本日文编码出错，引入大量难以溯源的启动问题。
+
+你需要手动附加 `internal_0.vhd` 以复制出相关文件。
+
+## 基本指向
+
+segatools.ini 会提供一些按键映射，和aquamai.toml定义的会同时生效。
+目前设置：仅1p，无副屏，无触控（mai2.ini）
+segatools.ini 的 [patch] 会由于引入 MelonLoader 而失效
+请勿尝试升级 MelonLoader 到 0.6.5 以上
+
+## 切换到其他私服
+
+如需连接到其他私服，请修改 segatools.ini
+请联系私服获取以下文件的配置：
+AMDaemon/segatools.ini, [KeyChip] -> ID=...
+AMDaemon/DEVICE/aime.txt, 内容即为aime号码
+
+## Melon Loader 相关文件
+
+```text
+Package/version.dll
+Package/dobby.dll
+Package/MelonLoader
+```
+
+## 相关已脱壳程序
+
+```text
+AMDaemon/amdaemon.exe （Package/amdaemon.exe已无用）
+Package/Sinmai_Data/Managed/Assembly-CSharp.dll
+Package/Sinmai_Data/Managed/AMDaemon.NET.dll
+Package/Sinmai_Data/Plugins/amdaemon_api.dll
+Package/Sinmai_Data/Plugins/Cake.dll
+```
