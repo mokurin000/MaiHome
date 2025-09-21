@@ -42,3 +42,5 @@ Package/Sinmai_Data/Managed/AMDaemon.NET.dll
 Package/Sinmai_Data/Plugins/amdaemon_api.dll
 Package/Sinmai_Data/Plugins/Cake.dll
 ```
+
+<!-- https://t.me/sasakure/60546 -->
