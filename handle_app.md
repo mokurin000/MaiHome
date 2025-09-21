@@ -9,8 +9,11 @@
 ## 基本指向
 
 segatools.ini 会提供一些按键映射，和aquamai.toml定义的会同时生效。
-目前设置：仅1p，无副屏，无触控（mai2.ini）
+
+AquaMai 负责 patch 游戏的基本启动，并提供可视化（MaiChartManager）、更易用的配置方式。
+
 segatools.ini 的 [patch] 会由于引入 MelonLoader 而失效
+
 请勿尝试升级 MelonLoader 到 0.6.5 以上
 
 ## 切换到其他私服
