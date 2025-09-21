@@ -18,10 +18,12 @@ segatools.ini 的 [patch] 会由于引入 MelonLoader 而失效
 
 ## 切换到其他私服
 
-如需连接到其他私服，请修改 segatools.ini
-请联系私服获取以下文件的配置：
-AMDaemon/segatools.ini, [KeyChip] -> ID=...
-AMDaemon/DEVICE/aime.txt, 内容即为aime号码
+如需连接到其他私服，需要联系私服进行以下文件的配置：
+> 需填写 [KeyChip] 中 ID 键
+- AMDaemon/segatools.ini
+> 内容即为aime号码
+- AMDaemon/DEVICE/aime.txt
+
 
 ## Melon Loader 相关文件
 
