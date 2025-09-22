@@ -7,7 +7,7 @@ def process(dir: str):
     if not path.isdir(dir):
         return
     subprocess.run(
-        ["ffmpeg", "-i", f"{dir}/1.wav", "-qscale:a", "2", "-b:a", "128k", f"{dir}.mp3"]
+        ["ffmpeg", "-i", f"{dir}/1.wav", "-qscale:a", "2", "-b:a", "192k", f"{dir}.mp3"]
     )
 
 
