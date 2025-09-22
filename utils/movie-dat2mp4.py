@@ -74,7 +74,7 @@ def main():
             ivf2mp4,
             (
                 (
-                    Path("output") / folder.removesuffix(".dat"),
+                    folder.removesuffix(".dat"),
                     Path("output") / folder / "videos",
                 )
                 for folder in listdir("output")
