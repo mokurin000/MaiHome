@@ -23,7 +23,7 @@ def process(arg: tuple[list[str], int]):
     args = [
         "node",
         CRIWARE_SRC,
-        "acb2wavs",
+        "awb2wavs",
         "-k",
         "9170825592834449000",
         "-d",
@@ -56,3 +56,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
