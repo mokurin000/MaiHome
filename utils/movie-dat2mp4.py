@@ -38,7 +38,9 @@ def ivf2mp4(pair: tuple[str, str]):
         ivf_file = ivf_file.pop()
     else:
         return
-    ivf_path = Path(video_dir) / ivf_file
+    input_path = Path(video_dir) / ivf_file
+    if not input_path.exists():
+        input_path = input_path.with_suffix(".avi")
     output_file = f"{chart_id}.mp4"
 
     if Path(output_file).exists():
@@ -48,7 +50,7 @@ def ivf2mp4(pair: tuple[str, str]):
         [
             "ffmpeg",
             "-i",
-            ivf_path,
+            input_path,
             "-c",
             "copy",
             output_file,
