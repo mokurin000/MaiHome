@@ -37,14 +37,22 @@ Package/dobby.dll
 Package/MelonLoader
 ```
 
+## AquaMai 相关文件
+
+```text
+Package/Mods/AquaMai.dll
+Package/AquaMai.toml
+```
+
 ## 相关已脱壳程序
 
 ```text
-AMDaemon/amdaemon.exe （Package/amdaemon.exe已无用）
+AMDaemon/amdaemon.exe
 Package/Sinmai_Data/Managed/Assembly-CSharp.dll
 Package/Sinmai_Data/Managed/AMDaemon.NET.dll
 Package/Sinmai_Data/Plugins/amdaemon_api.dll
 Package/Sinmai_Data/Plugins/Cake.dll
+Package/Sinmai.exe
 ```
 
 <!-- https://t.me/sasakure/60546 -->
