@@ -31,6 +31,7 @@ def dat2ivf(i: int):
 
 
 def ivf2mp4(pair: tuple[str, str]):
+    print(pair)
     chart_id, video_dir = pair
 
     ivf_file = list(filter(lambda f: f.endswith(".ivf"), listdir(video_dir)))
@@ -71,7 +72,6 @@ def main():
             rename(file, f"split_{i}/{file}")
 
     with Pool() as pool:
-        pool.map(dat2ivf, range(N))
         pool.map(
             ivf2mp4,
             (
@@ -80,7 +80,7 @@ def main():
                     Path("output") / folder / "videos",
                 )
                 for folder in listdir("output")
-                if Path(folder).is_dir()
+                if (Path("output") / folder).is_dir()
             ),
         )
 
