@@ -3,11 +3,20 @@ from multiprocessing import Pool
 from os import listdir, path
 
 
-def process(dir: str):
-    if not path.isdir(dir):
+def process(wav_file: str):
+    if not path.isfile(wav_file):
         return
     subprocess.run(
-        ["ffmpeg", "-i", f"{dir}/1.wav", "-qscale:a", "2", "-b:a", "192k", f"{dir}.mp3"]
+        [
+            "ffmpeg",
+            "-i",
+            wav_file,
+            "-qscale:a",
+            "2",
+            "-b:a",
+            "192k",
+            f"{wav_file.removesuffix('.wav')}.mp3",
+        ]
     )
 
 
