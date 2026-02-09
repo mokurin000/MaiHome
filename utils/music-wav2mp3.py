@@ -4,7 +4,7 @@ from os import listdir, path
 
 
 def process(wav_file: str):
-    if not path.isfile(wav_file):
+    if not path.isfile(wav_file) or not wav_file.endswith(".wav"):
         return
     subprocess.run(
         [
